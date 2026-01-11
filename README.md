@@ -53,9 +53,6 @@ This repository contains a collection of books, Manwhas and Animes read or watch
 | Chosen for Power                          | Lindsay Buroker             | Dragon Gate                     | English  |
 | Sky on Fire                               | Lindsay Buroker             | Dragon Gate                     | English  |
 | Orbs of Wisdom                            | Lindsay Buroker             | Dragon Gate                     | English  |
-
-
-
 | Le problème à trois corps                 | Liu Cixin                   | Le problème à trois corps       | Francais |
 | La forêt sombre                           | Liu Cixin                   | Le problème à trois corps       | Francais |
 | La mort immortelle                        | Liu Cixin                   | Le problème à trois corps       | Francais |
